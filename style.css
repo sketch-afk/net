@@ -293,6 +293,7 @@ footer .questions{
         gap: 25px;
     }
     .footer-item{
-        align-items: center;
+        /* align-items: center; */
     }
+
 }
